@@ -1,8 +1,4 @@
 good morning
-
-=vim
-
-
-
-sd
+good afternoon
+good night
 
